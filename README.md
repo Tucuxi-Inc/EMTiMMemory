@@ -118,7 +118,7 @@ Retrieved memory sets containing:
 Add EMTiM Memory to your project using Swift Package Manager. In Xcode:
 
 1. Go to **File** → **Add Package Dependencies**
-2. Enter the repository URL: `https://github.com/yourusername/EMTiMMemory.git`
+2. Enter the repository URL: `https://github.com/Tucuxi-Inc/EMTiMMemory.git`
 3. Select the version range or branch
 4. Add to your target
 
@@ -126,7 +126,7 @@ Or add it to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/EMTiMMemory.git", from: "1.0.0")
+    .package(url: "https://github.com/Tucuxi-Inc/EMTiMMemory.git", from: "1.0.0")
 ],
 targets: [
     .target(
@@ -782,9 +782,9 @@ For questions, issues, or feature requests:
 
 1. **Documentation**: Check this README and the API reference
 2. **Examples**: Review the `Examples/` directory
-3. **Issues**: Search [existing issues](https://github.com/yourusername/EMTiMMemory/issues)
-4. **New Issue**: Create a [new issue](https://github.com/yourusername/EMTiMMemory/issues/new)
-5. **Discussions**: Join [GitHub Discussions](https://github.com/yourusername/EMTiMMemory/discussions)
+3. **Issues**: Search [existing issues](https://github.com/Tucuxi-Inc/EMTiMMemory/issues)
+4. **New Issue**: Create a [new issue](https://github.com/Tucuxi-Inc/EMTiMMemory/issues/new)
+5. **Discussions**: Join [GitHub Discussions](https://github.com/Tucuxi-Inc/EMTiMMemory/discussions)
 
 ## Acknowledgments
 
